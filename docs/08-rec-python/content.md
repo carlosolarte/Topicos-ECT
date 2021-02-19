@@ -742,7 +742,7 @@ Será que precismos criar/materializar uma lista no passo No 3?
 > _Parabéns!_, você acaba de utilizar programação funcional! Sequências infinitas não são um problema (avaliação preguiçosa) e 
 > resolvemos um problema a partir da __composição__ de funções mais simples! 
 
-__Spoiler Alter!__
+__Spoiler Altert!__
 
 No próximo slide, a solução à questão No 5 que vocês implementarão em 2 semanas. 
 
