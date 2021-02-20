@@ -1,5 +1,26 @@
 # Tópicos Avançados II
 
+## [Introdução (20.01)](./01-intro)
+- Introdução, motivação
+- Plano do curso
+
+## [Python Básico (22.01)](./02-python-basico)
+- Terminal interativo de comandos
+- Variáveis e tipos
+- Operadores e expressões
+- Entrada e saída
+- Controle de fluxo (`if`, `while`, `for`)
+- Definição de funções
+- Documentação 
+- _Anotações de tipos (mypy)_
+
+## [Listas em Haskell (27.01)](./03-Haskell-Listas)
+- Terminal interativo de comandos (ghci)
+- Definição e uso de funções
+- Aplicação de funções
+- Currying 
+- Listas 
+
 ## [Estruturas de Dados (29.01)](./04-estruturas-dados)
 - Tuplas, Listas e Conjuntos em Python
 - [Jupyter Notebook](./04-estruturas-dados/estruturas-dados.ipynb)
