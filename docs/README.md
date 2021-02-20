@@ -1,6 +1,10 @@
 # Tópicos Avançados II
 
-## [Funções em Haskell (02.02)(./05-func-haskell)
+## [Estruturas de Dados (29.01)](./04-estruturas-dados)
+- Tuplas, Listas e Conjuntos em Python
+- [Jupyter Notebook](./04-estruturas-dados/estruturas-dados.ipynb)
+
+## [Funções em Haskell (03.02)](./05-func-haskell)
 - Definição de funções
 - Guardas
 - Casamento de padrões 
