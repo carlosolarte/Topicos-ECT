@@ -13,6 +13,8 @@
 - Definição de funções
 - Documentação 
 - _Anotações de tipos (mypy)_
+- [Jupyter Notebook](./02-python-basico/02-Python-Basico.ipynb)
+
 
 ## [Listas em Haskell (27.01)](./03-Haskell-Listas)
 - Terminal interativo de comandos (ghci)
