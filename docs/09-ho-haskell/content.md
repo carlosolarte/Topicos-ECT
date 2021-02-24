@@ -283,50 +283,6 @@ Como retornar todos os primos menores que um número n?
 primosMenores :: Int -> [Int]
 primosMenores n = takeWhile (<= n) seqPrimos
 ```
-
----
-## Lambdas 
-
-São funções __anônimas__ (normalmente utilizadas só uma vez). 
-
-São funções simples que utilizamos com outras funções de ordem superior
-
-Por exemplo:
-```
-f = \l -> not (null l)
-```
-
-> `f` recebe  uma lista e retorna `True` se a lista não é vazia 
-
-```haskell
-*Main> filter (\l -> not (null l)) [ [1,2],[], [3,4],[],[],[5,6]] 
-[[1,2],[3,4],[5,6]]
-```
-
----
-## Lambdas 
-
-Note que 
-```haskell
-map (+3) [1,2,3,4]
-```
-
-é equivalente a 
-
-```haskell
-map (\x -> x+3) [1,2,3,4]
-```
-
----
-## Lambdas 
-```haskell
-filter (\x -> ehPar x) [1,2,3,4]
-```
-
-é equivalente a 
-```haskell
-filter ehPar [1,2,3,4]
-```
 ---
 ## Exercícios
 
