@@ -52,3 +52,8 @@
 - [Exemplos](./08-rec-python/exemplos/)
 
 
+## [Funções de Ordem Superior (24.02)](./09-ho-haskell)
+- Funções de ordem superior
+- Filter
+- Map
+- takeWhile
