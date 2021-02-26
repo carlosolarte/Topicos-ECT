@@ -57,3 +57,8 @@
 - Filter
 - Map
 - takeWhile
+
+## [Funções de Ordem Superior (26.02)](./10-ho-python)
+- Funções de ordem superior
+- Filter
+- Map
