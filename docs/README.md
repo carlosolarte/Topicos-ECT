@@ -62,3 +62,6 @@
 - Funções de ordem superior
 - Filter
 - Map
+
+## [Zip e Unzip](./11-zip)
+- Funções Zip e Unzip
