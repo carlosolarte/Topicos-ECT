@@ -66,3 +66,7 @@
 ## [Zip e Unzip](./11-zip)
 - Funções Zip e Unzip
 - [Exemplos](./11-zip/exemplos.py)
+
+## [Reduce](./12-reduce)
+- Funções reduce, all, any. 
+- [Exemplos](./12-reduce/exemplos.py)
