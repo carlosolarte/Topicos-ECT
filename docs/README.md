@@ -63,10 +63,10 @@
 - Filter
 - Map
 
-## [Zip e Unzip](./11-zip)
+## [Zip e Unzip (03.03)](./11-zip)
 - Funções Zip e Unzip
 - [Exemplos](./11-zip/exemplos.py)
 
-## [Reduce](./12-reduce)
+## [Reduce (05.03)](./12-reduce)
 - Funções reduce, all, any. 
 - [Exemplos](./12-reduce/exemplos.py)
