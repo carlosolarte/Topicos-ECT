@@ -71,7 +71,7 @@
 - Funções reduce, all, any. 
 - [Exemplos](./12-reduce/exemplos.py)
 
-## [Arquivos CSV (12.03)[./13-csv/13-csv.zip]
+## [Arquivos CSV (12.03)](./13-csv/13-csv.zip)
  - Arquivos CSV
  - Calcular estatísticas
  - Filtar / Depurar informação
