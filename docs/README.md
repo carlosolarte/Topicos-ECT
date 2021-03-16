@@ -76,3 +76,6 @@
  - Calcular estatísticas
  - Filtar / Depurar informação
 
+## [Named Tuples (17.03)](./14-named-tuples/)
+ - Named tuples
+
