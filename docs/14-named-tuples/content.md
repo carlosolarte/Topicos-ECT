@@ -205,7 +205,9 @@ it1, it2 = tee(it)
 
 O que significa fazer:
 ```python
-it1, it2 = tee(it1)
+l = [1,2,3,4]
+it = iter(l)
+it1, it2 = tee(it)
 _ = next(it2) # descartar o primeiro elemento de it2
 z = zip(it1, it2)
 ```
