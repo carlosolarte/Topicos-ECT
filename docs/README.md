@@ -79,3 +79,6 @@
 ## [Named Tuples (17.03)](./14-named-tuples/)
  - Named tuples
 
+## [Ordenar e Agrupas (19.03)](./15-sort-group/)
+ - Função `sorted`
+ - Função `groupby`
