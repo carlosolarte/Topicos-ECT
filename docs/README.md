@@ -82,3 +82,10 @@
 ## [Ordenar e Agrupas (19.03)](./15-sort-group/)
  - Função `sorted`
  - Função `groupby`
+
+## [Itertools (24.03)](./16-itertools)
+ - count
+ - repeat
+ - cycle
+ - takewhile, dropwhile
+ - compress
