@@ -104,12 +104,12 @@ Já conhecíamos essas funções de Haskell:
 
 ```python
 def takewhile(predicate, iterable):
-    iterable = iter(iterable)
     for x in iterable:
         if predicate(x): yield x
         else: break
 
 def dropwhile(predicate, iterable):
+    iterable = iter(iterable)
     for x in iterable:
         if not predicate(x):
             yield x
