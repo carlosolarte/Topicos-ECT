@@ -104,6 +104,7 @@ Já conhecíamos essas funções de Haskell:
 
 ```python
 def takewhile(predicate, iterable):
+    iterable = iter(iterable)
     for x in iterable:
         if predicate(x): yield x
         else: break
@@ -123,6 +124,7 @@ def dropwhile(predicate, iterable):
 Alguns exemplos:
 
 ```python
+from itertools import *
 print(list(takewhile(lambda x: x < 3, range(10))))
 # [0, 1, 2]
 print(list(dropwhile(lambda x: x < 3, range(10))))
