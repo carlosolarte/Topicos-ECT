@@ -13,7 +13,7 @@ Dados dos conjuntos A e B, o produto cartesiano $A \times B$ está definido como
 
 Lembre que $|A \times B| = |A| \times |B|$. 
 
->Ex. {1,2} $\times$ {3,4} = {(1,3),(2,4),(2,3),(2,4)} 
+>Ex. {1,2} $\times$ {3,4} = {(1,3),(1,4),(2,3),(2,4)} 
 
 ---
 ### Produto Cartesiano
