@@ -89,3 +89,9 @@
  - cycle
  - takewhile, dropwhile
  - compress
+
+## [Combinações e Permutações (26.03)](./17-perm-comb)
+ - `product`
+ - `pemurtation`
+ - `combinations`
+
