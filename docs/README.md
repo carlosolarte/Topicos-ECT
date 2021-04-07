@@ -97,3 +97,7 @@
 
 ## [Midi (31.03)](./18-midi/midi.zip)
 - Arquivos Midi
+
+## [Decoradores (07.04)](./19-decoradores)
+- Closures 
+- Decoradores
