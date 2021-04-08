@@ -213,8 +213,8 @@ def maiuscula(f):
         return f(x).upper()
     return m
 
-f1M = maiuscula(f1)
-print(f1M("carlos"))
+f2M = maiuscula(f2)
+print(f2M("carlos"))
 ```
 
 Mas isso não funciona para `f3` e `f4` que recebem 2 parâmetros. 
@@ -230,7 +230,7 @@ def maiuscula2(f):
     return m
 
 f1M = maiuscula2(f1)
-print(f1M("carlos"))  # 1 parâmetro
+print(f1M())  # sem parâmetros
 f4M = maiuscula2(f4)
 print(f4M('M', "carlos"))  # 2 parâmetros 
 ```
