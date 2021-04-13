@@ -101,3 +101,8 @@
 ## [Decoradores (07.04)](./19-decoradores)
 - Closures 
 - Decoradores
+
+## [Sockets e Requests (13.04)](./21-request/requests.zip)
+- Sockets
+- Requests
+- APIs REST
