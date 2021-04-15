@@ -106,3 +106,8 @@
 - Sockets
 - Requests
 - APIs REST
+
+## [Execuções Concorrentes](./20-threads)
+- Threads
+- Multiprocessing
+- Async
