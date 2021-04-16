@@ -107,7 +107,7 @@
 - Requests
 - APIs REST
 
-## [Execuções Concorrentes](./20-threads)
+## [Execuções Concorrentes](./20-threads/20-concurrency.ipynb)
 - Threads
 - Multiprocessing
 - Async

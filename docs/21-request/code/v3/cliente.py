@@ -7,7 +7,6 @@ HOST = '127.0.0.1'
     
 def receberLista(conn):
     '''Receber a lista de produtos utilizando o socket conn'''
-    conn.send(b'listar')
     dados= conn.recv(2048)
     L = json.loads(dados.decode())
     return L
